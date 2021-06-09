@@ -10,6 +10,7 @@
           "time": "12:00",
           "organizer":"anh",
         },
+    
         {
           "id": 2,
           "categoty":"mua ha",
@@ -20,6 +21,7 @@
           "time": "12:00",
           "organizer":"anh",
         },
+    
         {
           "id": 3,
           "categoty":"mua thu",
@@ -29,6 +31,6 @@
           "date": "Jan 28,2021",
           "time": "12:00",
           "organizer":"anh",
-        },
+        }
    ]
 }
