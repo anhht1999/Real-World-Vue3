@@ -32,5 +32,8 @@
           "time": "12:00",
           "organizer":"anh",
         }
-   ]
+   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
